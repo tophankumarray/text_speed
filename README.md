@@ -75,6 +75,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # OutPut
 
 ![textspeed1](https://github.com/tophankumarray/text_speed/assets/93485734/c0770269-5dfa-4c49-a8bd-c4408d585d64)
+
 ![textspeed3](https://github.com/tophankumarray/text_speed/assets/93485734/83fd6a45-3e96-4dec-9fc9-c5f19d5c4afe)
+
 ![textspeed2](https://github.com/tophankumarray/text_speed/assets/93485734/2e52957b-2a80-43dd-931c-2b91cd157bbe)
 
